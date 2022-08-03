@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Code.iml" filepath="$PROJECT_DIR$/Java_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java_File/PuzzleGame/PuzzleGame.iml" filepath="$PROJECT_DIR$/../Java_File/PuzzleGame/PuzzleGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../BaiduNetdiskDownload/作业/答案/puzzlegame/puzzlegame.iml" filepath="$PROJECT_DIR$/../../BaiduNetdiskDownload/作业/答案/puzzlegame/puzzlegame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../puzzlegame/puzzlegame1.iml" filepath="$PROJECT_DIR$/../puzzlegame/puzzlegame1.iml" />
+    </modules>
+  </component>
+</project>
